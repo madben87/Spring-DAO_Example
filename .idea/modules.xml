@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring+DATA_JPA/DATA.iml" filepath="$PROJECT_DIR$/Spring+DATA_JPA/DATA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring+JPA/Library.iml" filepath="$PROJECT_DIR$/Spring+JPA/Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring+DAO_Example.iml" filepath="$PROJECT_DIR$/.idea/Spring+DAO_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring+JPA/example_JPA.iml" filepath="$PROJECT_DIR$/Spring+JPA/example_JPA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring+Hibernate/example_hibernate.iml" filepath="$PROJECT_DIR$/Spring+Hibernate/example_hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring+JDBC/example_jdbc.iml" filepath="$PROJECT_DIR$/Spring+JDBC/example_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring+JDBCTemplate/example_templates.iml" filepath="$PROJECT_DIR$/Spring+JDBCTemplate/example_templates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring+Hibernate/professional_spring.iml" filepath="$PROJECT_DIR$/Spring+Hibernate/professional_spring.iml" />
+    </modules>
+  </component>
+</project>
